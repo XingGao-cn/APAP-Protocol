@@ -1,0 +1,15 @@
+q1=bar(initial_value-max_energy_consume);
+    axis([0 2 0 0.5]);%坐标轴范围
+    xtips1 = q1(1).XEndPoints;
+    ytips1 = q1(1).YEndPoints;
+labels1 = string(q1(1).YData);%横纵轴标签
+
+text(xtips1,ytips1,labels1,'HorizontalAlignment','center',...
+    'VerticalAlignment','bottom')%文本标记
+
+title("一轮结束消耗最大节点能量开销");%图窗标题
+
+legend('数据总量','发送成功','发送失败');%图例
+%*****************************************
+
+
