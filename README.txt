@@ -1,13 +1,3 @@
-Matlab based Wireless Sensor netwroks(WSNs) simulation code for data collection protocols.
-
-
-Environment: 
-OS: Windows10
-Matlab version: matlab 2020a
-
-
-Notice:
-
 • Folder APAP implements our new protocol for data collection;PR and GRDR are the comparison protocol in the cited article .
 
 • Energy consumption at MAC is not considered in our sinmulation. 
@@ -28,13 +18,11 @@ write_2.m
 
 •Any issues regarding the paper is welcome, please contact us for help.
 	
-	
 Authors’ information: 
 	Address: Central South University of Forestry and Technology, 498 Shaoshan South Road, Tianxin District, Changsha, Hunan Province, China
 	Name&Email:  XingGao  email: 20202756@csuft.edu.cn   or 1011084743@qq.com
 
 The doi of our paper will be upload later..
-  
   
 Thanks for reading！
 			                                             ----Edited by XingGao
