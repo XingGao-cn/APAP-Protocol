@@ -27,3 +27,9 @@ The doi of our paper will be upload later..
 Thanks for reading！
 			                                             ----Edited by XingGao
 					                   October 2022
+
+
+Our work was published in the 《Computer Communications》(COMCOM), the DOI of this paper is https://doi.org/10.1016/j.comcom.2023.08.015.
+								    ----Edited by XingGao
+					                   September 2023
+
