@@ -1,8 +1,12 @@
+**Overview protocol** <br />
+<figure class="half">
+    <img src = "https://github.com/XingGao-cn/APAP-Protocol/assets/80154778/25799af8-05e9-489e-b4db-e0186c83874d"  width="437" >
+</figure>  
+
 *We propose the APAP to balance the two competing interests in energy-constrained WSNs.  
 APAP mainly consists of two parts: **adaptive packet-reproduction routing and active packet-loss mechanism**.* <br />
 
 <figure class="half">
-    <img src = "https://github.com/XingGao-cn/APAP-Protocol/assets/80154778/25799af8-05e9-489e-b4db-e0186c83874d"  width="437" >
     <img src = "https://github.com/XingGao-cn/APAP-Protocol/assets/80154778/f52f1879-c177-4bc9-bd63-39c3885c14db"  width="837" >
 </figure>  
 
